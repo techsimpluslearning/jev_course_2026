@@ -1,0 +1,6 @@
+
+
+langchain-typesafe
+langchain
+langchain-groq
+dotenv
